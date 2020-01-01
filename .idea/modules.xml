@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/db-kcli.iml" filepath="$PROJECT_DIR$/.idea/modules/db-kcli.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/db-kcli.main.iml" filepath="$PROJECT_DIR$/.idea/modules/db-kcli.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/db-kcli.test.iml" filepath="$PROJECT_DIR$/.idea/modules/db-kcli.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/org.sharpx.db-kcli.main.iml" filepath="$PROJECT_DIR$/.idea/modules/org.sharpx.db-kcli.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/org.sharpx.db-kcli.test.iml" filepath="$PROJECT_DIR$/.idea/modules/org.sharpx.db-kcli.test.iml" />
+    </modules>
+  </component>
+</project>
